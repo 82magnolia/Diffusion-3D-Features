@@ -24,3 +24,4 @@ dependencies:
     - trimesh==4.0.0
     - potpourri3d==1.0.0
     - robust_laplacian==0.2.7
+    - accelerate==0.21.0
